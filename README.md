@@ -1,5 +1,7 @@
 ### Hi there 👋
-My name is Emanuel, welcome!<br>
+My name is Emanuel, welcome!
+
+
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/EmanuelDms)](https://github.com/EmanuelDms)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/leonardo-narita-0949b418b/)](https://www.linkedin.com/in/emanueldms/)
 
