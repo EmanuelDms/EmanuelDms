@@ -9,8 +9,8 @@ My name is Emanuel, welcome!
 - 🔭 I'm currently working on build my career as web developer, learning new things every day!
 - 🌱 I’m currently learning Flutter and JS!
 - 👯 I’m looking to collaborate on ideas to make a better world
-<!-- - 🤔 I’m looking for help with responsive design using CSS -->
 - 💬 Ask me about something
 - 📫 How to reach me: emanuel.duarte.maia@gmail.com
 - 😄 Pronouns: yeah she doess
 - ⚡ Fun fact: I sing the line of code when I don't understand it :P
+<!-- - 🤔 I’m looking for help with responsive design using CSS -->
