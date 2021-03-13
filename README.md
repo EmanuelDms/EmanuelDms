@@ -2,8 +2,12 @@
 My name is Emanuel, welcome!
 
 ## Social Media
-[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/EmanuelDms)](https://github.com/EmanuelDms)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/leonardo-narita-0949b418b/)](https://www.linkedin.com/in/emanueldms/)
+### About Me
+<!--**emanueldms/emanueldms** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
+- 🔭 I'm currently working with React.js, JS, MongoDB.
+- 🌱 I’m currently learning Node.js and delving deeper into React.js
+- 📚 I am studying computer technician at EEEP Professor Onélio Porto.
 
 ### Tech Stack
   ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
