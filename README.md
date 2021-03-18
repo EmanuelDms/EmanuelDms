@@ -5,8 +5,8 @@ My name is Emanuel, welcome!
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/leonardo-narita-0949b418b/)](https://www.linkedin.com/in/emanueldms/)
 ### About Me
 <!--**emanueldms/emanueldms** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
-- 🔭 I'm currently working with React.js, JS, MongoDB.
-- 🌱 I’m currently learning Node.js and delving deeper into React.js
+- 🔭 I'm currently working with React.js, JS, SPFx.
+- 🌱 I’m currently learning SPFx and delving deeper into React.js
 - 📚 I am studying computer technician at EEEP Professor Onélio Porto.
 
 ### Tech Stack
