@@ -5,9 +5,9 @@ My name is Emanuel, welcome!
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/leonardo-narita-0949b418b/)](https://www.linkedin.com/in/emanueldms/)
 ### About Me
 <!--**emanueldms/emanueldms** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
-- 🔭 I'm currently working with React.js, JS, SPFx.
-- 🌱 I’m currently learning SPFx and delving deeper into React.js
-- 📚 I am studying computer technician at EEEP Professor Onélio Porto.
+- 🔭 I'm currently working with Figma.
+- 🌱 I’m currently learning UI/UX and delving deeper into UI/UX;
+- 📚 I am studying computer technician at EEEP Professor Onélio Porto;
 
 ### Tech Stack
   ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
